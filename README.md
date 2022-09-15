@@ -9,4 +9,3 @@
 - [Archive the work](https://blogs.library.ucsf.edu/broughttolight/2022/01/11/kevin-miller-joins-the-ucsf-archives-team/) of the COVID Tracking Project
 - Be the website team lead for the [COVID19 Tracking Project](https://covidtracking.com).
 - List [all public agencies and services in Monterey County, California](https://mocoloco.org).
-- 
